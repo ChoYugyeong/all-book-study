@@ -20,4 +20,4 @@ DevOps, 인프라, 클라우드 기술과 관련된 서적을 공부합니다.
 |Cell1|Cell2|
 |Cell1|Cell2|
 |Cell1|Cell2|
-|Cell1|Cell2|
+|홍성민|[홍의 비법레시피 - 노션](https://hongsrecipe.notion.site/Terraform-112fc437d98780e1a4f9ccefca179eb1)|
