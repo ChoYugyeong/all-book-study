@@ -1,0 +1,13 @@
+# Terraform 상태 파일
+terraform.tfstate
+terraform.tfstate.backup
+
+# Terraform 잠금 파일
+.terraform/
+
+# Terraform 변수 파일 (민감한 정보가 포함될 수 있음)
+*.tfvars
+*.tfvars.json
+
+# 사용자 정의 파일 (필요에 따라 추가)
+*.tfplan
