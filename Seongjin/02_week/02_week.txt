@@ -8,7 +8,7 @@
 
 
 [부모-자식 모듈 폴더 구성]:
-06-moudle-training
+[06-moudle-training]:
 ㄴ moudles (자식모듈)
     ㄴ terraform-random-random-pwgen
         ㄴ main.tf # provider나 resource 같은 블록을 모아둠
@@ -18,3 +18,13 @@
 ㄴ 06-01-basic  # 루트 모듈(부모모듈)
     ㄴ  main.tf # 자식 모듈을 호출해서 사용함
 
+
+[06-module-training-02]:
+ㄴ moudles
+    ㄴ terraform-aws-ec2
+        ㄴ main.tf 
+        ㄴ output.tf 
+        ㄴ variable.tf 
+ㄴ root_module01: 반복문 없이 하드코딩으로 2개 모듈 각각 출력
+ㄴ root_module02: count 통한 반복문
+ㄴ root_module03: locals에 key-values 넣고 for-each로 반복문 넣기
