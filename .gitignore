@@ -11,3 +11,7 @@ terraform.tfstate.backup
 
 # 사용자 정의 파일 (필요에 따라 추가)
 *.tfplan
+
+# Terraform 잠금 정보 파일
+.terraform.lock.hcl
+.terraform.lcok.*

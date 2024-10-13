@@ -1,5 +1,3 @@
-
-
 # all book study <img src="https://win98icons.alexmeub.com/icons/png/computer-5.png">
 DevOps, 인프라, 클라우드 기술과 관련된 서적을 공부합니다.
 
