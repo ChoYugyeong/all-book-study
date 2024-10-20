@@ -14,3 +14,6 @@ terraform.tfstate.backup
 
 # Terraform 잠금 정보 파일
 .terraform.lock.hcl
+
+# 각종 키
+*.key
