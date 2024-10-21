@@ -2,3 +2,4 @@
 
 - [chap5. state](./terraform/chap5.md)
 - [chap6. module](./terraform/chap6.md)
+- [chap7. collab](./terraform/chap7.md)
